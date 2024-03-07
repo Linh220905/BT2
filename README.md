@@ -1,3 +1,3 @@
 Họ và tên: Dương Tấn Lĩnh
-lớp:KTMT1
+lớp:23KTMT1
 # BT2
